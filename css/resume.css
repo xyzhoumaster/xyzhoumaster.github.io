@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Open Sans', serif;
-  padding-top: 54px;
+  padding-top: 48px;
   color: #868e96; }
 
 @media (min-width: 992px) {
@@ -86,7 +86,7 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #ffd700;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
@@ -110,6 +110,6 @@ section.resume-section {
   color: #551A8B !important; }
 
 a {
-  color: #D4C5E2; }
+  color: #4f80b5; }
   a:hover, a:focus, a:active {
     color: #8e8cc5; }
